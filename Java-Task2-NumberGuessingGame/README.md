@@ -1,6 +1,7 @@
-🎮 NUMBER GUESSING GAME
+## 🎮 NUMBER GUESSING GAME
 
 OVERVIEW📌
+
 A Java Console game where a player tries to guess a randomly generated number.The game
 gives Too High, Too Low, OR Correct hint after each guess.
 
@@ -50,14 +51,12 @@ What I learned📚
 -
 Throughout this project, I gained more practice with Java fundamentals and learned how different programming concepts can be combined to create an interactive program.
 
- Author 👨‍💻
-**Soneze Dubula**
-BSc Information Technology – Software Engineering
-
-Developed as part of the **Oasis Infobyte Java Development Internship**.
-
-
 One of the main things I practiced was handling ser input and making sure invalid input oes not break the program. I also learned how to use loops to control repeated gameplay and how to use variables to keep track of attempts, rounds, and scores.
 
 Adding the difficulty system also helped me understand how switch statements can be used to change the behaviour of a program based on the user's choice.
 
+ ## Author 👨‍💻
+**Soneze Dubula**
+BSc Information Technology – Software Engineering
+
+Developed as part of the **Oasis Infobyte Java Development Internship**
