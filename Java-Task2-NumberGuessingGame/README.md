@@ -46,54 +46,16 @@ Scoring 📊
 The game calculates the scores based on the selected difficulty and the number of attempts remaining.
 The scores are added together across the multiple rounds played.
 
-Screenshots
--
-## 📸 Screenshots
-
-### Difficulty Selection
-
-![Difficulty Selection](screenshots/1.Difficulty selection.png)
-
-### Easy Mode
-
-![Easy Mode](screenshots/2.Easy Mode.png)
-
-### Medium Mode
-
-![Medium Mode](screenshots/3.Medium mode.png)
-
-### Hard Mode
-
-![Hard Mode](screenshots/4.Hard mode.png)
-
-### High and Low Hints
-
-![High and Low Hints](screenshots/5.Low and High hints.png)
-
-### Invalid Input
-
-![Invalid Input](screenshots/6.Invalid input.png)
-
-### Winning Screen
-
-![Winning Screen](screenshots/7.Winning screen.png)
-
-### Losing Screen
-
-![Losing Screen](screenshots/8.Losing-screen.png)
-
-### Multiple Rounds
-
-![Multiple Rounds](screenshots/9.Multiple rounds.png)
-
-### Total Score
-
-![Total Score](screenshots/10.Total-score.png)
-
-
 What I learned📚
 -
 Throughout this project, I gained more practice with Java fundamentals and learned how different programming concepts can be combined to create an interactive program.
+
+ Author 👨‍💻
+**Soneze Dubula**
+BSc Information Technology – Software Engineering
+
+Developed as part of the **Oasis Infobyte Java Development Internship**.
+
 
 One of the main things I practiced was handling ser input and making sure invalid input oes not break the program. I also learned how to use loops to control repeated gameplay and how to use variables to keep track of attempts, rounds, and scores.
 
